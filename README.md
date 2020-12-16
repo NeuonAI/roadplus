@@ -90,7 +90,7 @@ The web demo contains mostly administrative role which is not suitable to disclo
   <br/> +60 82-361 556
 
 - **Chang Yang Loong**
-  <br/> yangloong@live.com.my
+  <br/> yangloong@neuon.ai
   <br/> +60 16-897 6204
 
 We apologise for any inconvenience caused and hope for your understanding. Thank you.
